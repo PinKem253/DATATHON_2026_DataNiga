@@ -9,10 +9,10 @@ data/raw/
 data/processed/
 
 
-outputs/models/
-outputs/submissions/
+#outputs/models/
+#outputs/submissions/
 
-
+de_thi_vong_1.txt
 .ipynb_checkpoints/
 
 kaggle.json
